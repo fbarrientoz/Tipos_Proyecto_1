@@ -10,7 +10,7 @@ namespace Consola
     {
         static void Main(string[] args)
         {
-            
+            int var= 0;
             Console.WriteLine("Hello World :)");
             
         }
